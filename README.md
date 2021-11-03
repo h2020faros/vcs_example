@@ -12,7 +12,7 @@ sudo apt install python3-vcstool
 - Clone the content
 ```shell
 mkdir -p vcs_example_ws/src
-wget wget https://raw.githubusercontent.com/h2020faros/vcs_example/main/repos.yml -P vcs_example_ws
+wget wget https://raw.githubusercontent.com/h2020faros/vcs_tool_example/main/repos.yml -P vcs_example_ws
 vcs import vcs_example_ws/src < vcs_example_ws/repos.yml
 ```
 - Check everything got cloned
