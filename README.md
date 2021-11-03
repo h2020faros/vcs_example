@@ -24,6 +24,10 @@ ls vcs_example_ws/src
 cd vcs_example_ws
 rosdep install --from-paths src --ignore-src -r -y
 ```
+- Build
+```shell
+colcon build
+```
 
 
 ## Links
