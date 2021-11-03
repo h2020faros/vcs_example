@@ -32,5 +32,5 @@ colcon build
 
 ## Links
 - [Foxy source checkout](https://docs.ros.org/en/foxy/Installation/Maintaining-a-Source-Checkout.html)
-- [VCS Github](https://github.com/dirk-thomas/vcstool)
+- [VCS Tool Github](https://github.com/dirk-thomas/vcstool)
 
